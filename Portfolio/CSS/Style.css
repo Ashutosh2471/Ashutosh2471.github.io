@@ -1,0 +1,18 @@
+.background1 {
+    opacity:0.5;
+    background: linear-gradient(90deg, rgba(168, 23, 114, 1) 16%, rgba(121, 4, 204, 1) 59%) !important;
+}
+.bg2{
+    background: rgb(34,193,195);
+background: linear-gradient(10deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%) !important;
+}
+.bg3{
+    background: rgb(116,36,86);
+background: linear-gradient(25deg, rgba(116,36,86,1) 31%, rgba(142,48,209,1) 66%) !important;
+}
+.myfont{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Shadows Into Light', cursive;
+}
